@@ -4,4 +4,4 @@
 - I'm adding this from `feature-branch`
 
 - add commit 1
-- add commit 2
+- add commit 1.2
